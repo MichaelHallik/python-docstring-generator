@@ -20,7 +20,7 @@ Google, reStructuredText (reST), and NumPy
 
 ## Screenshot
 
-![Screenshot of the app](screenshot.png)
+![Screenshot of the app](web_ui.JPG)
 
 ## Installation
 
