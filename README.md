@@ -20,7 +20,7 @@ Google, reStructuredText (reST), and NumPy
 
 ## Screenshot
 
-Add an actual screenshot of the UI here:
+![Screenshot of the app](screenshot.png)
 
 ## Installation
 
