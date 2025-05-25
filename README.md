@@ -13,9 +13,9 @@ Google, reStructuredText (reST), and NumPy
   - Return values.
   - Raised exceptions.
 - Style selection: Google, reST, NumPy.
-- Line wrapping based on selectable max length (e.g. 79, 100, 120 chars).
-- Responsive and centered UI layout using Tailwind CSS.
-- Read-only output with one-click clipboard copy.
+- Default line wrapping override, through selectable max length (e.g. 79, 100, 120 chars).
+- Responsive and UI layout using Tailwind CSS.
+- One-click clipboard copy.
 - All user input preserved as written (line breaks, indentation).
 
 ## Screenshot
@@ -26,8 +26,8 @@ Google, reStructuredText (reST), and NumPy
 
 ```bash
 pip install nicegui
-git clone https://github.com/yourname/docstring-generator.git
-cd docstring-generator
+git clone https://github.com/MichaelHallik/python-docstring-generator.git
+cd python-docstring-generator
 python main.py
 ```
 
