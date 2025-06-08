@@ -1,8 +1,8 @@
 # Python docstring generator
 
-This repository contains a NiceGUI-based web application that allows developers to generate Python docstrings in three popular formats:
+This repository contains a NiceGUI-based web application that supports generating Python docstrings in three popular formats:
 
-Google, reStructuredText (reST), and NumPy
+Google, reStructuredText (reST) and NumPy
 
 ## Features
 
@@ -14,7 +14,6 @@ Google, reStructuredText (reST), and NumPy
   - Raised exceptions.
 - Style selection: Google, reST, NumPy.
 - Default line wrapping override, through selectable max length (e.g. 79, 100, 120 chars).
-- Responsive and UI layout using Tailwind CSS.
 - One-click clipboard copy.
 - All user input preserved as written (line breaks, indentation).
 
@@ -47,10 +46,17 @@ This tool simplifies that by guiding you through each section and taking care of
 ## Project structure
 
 ```text
-main.py          # Entry point for the app with UI, formatting, and logic
-README.md        # Project documentation and usage
-TECHNICAL.md     # Technical implementation details and architecture
+main.py          # Entry point for the app with UI, formatting, and logic.
+README.md        # Project documentation and usage.
+TECHNICAL.md     # Technical implementation details.
 ```
+
+## Future improvements
+
+- Beautify the Web UI.
+- Support docstring parsing and conversion.
+- Add export/import templates.
+- Add unit tests.
 
 ## 🪪 License
 

@@ -77,10 +77,3 @@ classDiagram
 ## Entry point
 
 `main.py` constructs and launches the UI when executed as a script.
-
-## Future improvements
-
-- Beautify the Web UI.
-- Support docstring parsing and conversion.
-- Add export/import templates.
-- Add unit tests.
